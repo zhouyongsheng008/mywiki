@@ -1,6 +1,5 @@
 @echo off
 
-robocopy F:\Marknotedown E:\MyWiki\content /MIR
 
 cd /d E:\MyWiki
 
